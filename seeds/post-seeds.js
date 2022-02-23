@@ -8,17 +8,17 @@ const postdata = [
   },
   {
     title: 'Morbi non quam nec dui luctus rutrum.',
-    post_text: 'https://nasa.gov/donec.json',
+    post_text: 'blah bleh blah bleh',
     user_id: 8
   },
   {
     title: 'Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.',
-    post_text: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    post_text: 'this is the 3rd blog post on the page!',
     user_id: 1
   },
   {
     title: 'Nunc purus.',
-    post_text: 'http://desdev.cn/enim/blandit/mi.jpg',
+    post_text: 'this is the 4th! Yippeeee',
     user_id: 4
   },
   {
